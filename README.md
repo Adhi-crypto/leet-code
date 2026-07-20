@@ -116,3 +116,19 @@ For every problem I follow:
 ⭐ If you like this repository, consider giving it a star!
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Adhi-crypto/leet-code/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Adhi-crypto/leet-code/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Adhi-crypto/leet-code/tree/master/0002-add-two-numbers) |
+<!---LeetCode Topics End-->
