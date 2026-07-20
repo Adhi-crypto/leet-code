@@ -1,53 +1,118 @@
-<h2><a href="https://leetcode.com/problems/two-sum">1. Two Sum</a></h2><h3>Easy</h3><hr><p>Given an array of integers <code>nums</code>&nbsp;and an integer <code>target</code>, return <em>indices of the two numbers such that they add up to <code>target</code></em>.</p>
+<div align="center">
 
-<p>You may assume that each input would have <strong><em>exactly</em> one solution</strong>, and you may not use the <em>same</em> element twice.</p>
+# 🚀 LeetCode Journey
 
-<p>You can return the answer in any order.</p>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350"/>
 
-<p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+### Solving one problem at a time. Building strong problem-solving skills.
 
-<pre>
-<strong>Input:</strong> nums = [2,7,11,15], target = 9
-<strong>Output:</strong> [0,1]
-<strong>Explanation:</strong> Because nums[0] + nums[1] == 9, we return [0, 1].
-</pre>
+![Python](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LeetCode](https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+![Goal](https://img.shields.io/badge/Goal-500%2B%20Problems-blue?style=for-the-badge)
 
-<p><strong class="example">Example 2:</strong></p>
+</div>
 
-<pre>
-<strong>Input:</strong> nums = [3,2,4], target = 6
-<strong>Output:</strong> [1,2]
-</pre>
+---
 
-<p><strong class="example">Example 3:</strong></p>
+# 📖 About
 
-<pre>
-<strong>Input:</strong> nums = [3,3], target = 6
-<strong>Output:</strong> [0,1]
-</pre>
+Welcome to my **LeetCode Journey** repository.
 
-<p>&nbsp;</p>
-<p><strong>Constraints:</strong></p>
+This repository contains all of my LeetCode solutions written in **Python**, along with optimized approaches and consistent problem-solving practice.
 
-<ul>
-	<li><code>2 &lt;= nums.length &lt;= 10<sup>4</sup></code></li>
-	<li><code>-10<sup>9</sup> &lt;= nums[i] &lt;= 10<sup>9</sup></code></li>
-	<li><code>-10<sup>9</sup> &lt;= target &lt;= 10<sup>9</sup></code></li>
-	<li><strong>Only one valid answer exists.</strong></li>
-</ul>
+My goal is to improve my DSA skills and prepare for Software Engineering interviews.
 
-<p>&nbsp;</p>
-<strong>Follow-up:&nbsp;</strong>Can you come up with an algorithm that is less than <code>O(n<sup>2</sup>)</code><font face="monospace">&nbsp;</font>time complexity?
+---
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/Adhi-crypto/leet-code/tree/master/0001-two-sum) |
-## Hash Table
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/Adhi-crypto/leet-code/tree/master/0001-two-sum) |
-<!---LeetCode Topics End-->
+# 🎯 Goals
+
+- ✅ Master Data Structures
+- ✅ Master Algorithms
+- ✅ Improve Problem Solving
+- ✅ Crack Technical Interviews
+- ✅ Stay Consistent
+
+---
+
+# 📊 Progress
+
+| Difficulty | Solved |
+|------------|--------|
+| 🟢 Easy | 1 |
+| 🟡 Medium | 0 |
+| 🔴 Hard | 0 |
+| **Total** | **1** |
+
+---
+
+# 🛠 Language
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+---
+
+# 📚 Topics
+
+<p align="center">
+
+![Array](https://img.shields.io/badge/Array-blue?style=for-the-badge)
+![HashMap](https://img.shields.io/badge/HashMap-success?style=for-the-badge)
+![String](https://img.shields.io/badge/String-orange?style=for-the-badge)
+![Two Pointers](https://img.shields.io/badge/Two%20Pointers-purple?style=for-the-badge)
+![Binary Search](https://img.shields.io/badge/Binary%20Search-red?style=for-the-badge)
+![Linked List](https://img.shields.io/badge/Linked%20List-lightgrey?style=for-the-badge)
+![Stack](https://img.shields.io/badge/Stack-yellow?style=for-the-badge)
+![Queue](https://img.shields.io/badge/Queue-9cf?style=for-the-badge)
+![Tree](https://img.shields.io/badge/Tree-green?style=for-the-badge)
+![Graph](https://img.shields.io/badge/Graph-blueviolet?style=for-the-badge)
+![Dynamic Programming](https://img.shields.io/badge/DP-critical?style=for-the-badge)
+
+</p>
+
+---
+
+# 🧠 Problem Solving Strategy
+
+For every problem I follow:
+
+- Understand the problem
+- Think of the Brute Force approach
+- Optimize the solution
+- Analyze Time & Space Complexity
+- Learn the underlying pattern
+
+---
+
+# 📂 Repository Structure
+
+```text
+📦 leet-code
+│
+├── 0001-two-sum
+├── 0009-palindrome-number
+├── 0013-roman-to-integer
+├── ...
+│
+└── README.md
+```
+
+---
+
+# 🌟 Current Milestone
+
+```
+✅ 1 / 500 Problems Solved
+```
+
+---
+
+<div align="center">
+
+### 💻 Consistency beats intensity.
+
+⭐ If you like this repository, consider giving it a star!
+
+</div>
