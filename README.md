@@ -104,7 +104,7 @@ For every problem I follow:
 # 🌟 Current Milestone
 
 ```
-✅ 1 / 500 Problems Solved
+✅ 3 / 500 Problems Solved
 ```
 
 ---
