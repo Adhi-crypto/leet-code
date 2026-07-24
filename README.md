@@ -41,8 +41,8 @@ My goal is to improve my DSA skills and prepare for Software Engineering intervi
 |------------|--------|
 | 🟢 Easy | 1 |
 | 🟡 Medium | 2 |
-| 🔴 Hard | 0 |
-| **Total** | **3** |
+| 🔴 Hard | 1 |
+| **Total** | **4** |
 
 ---
 
